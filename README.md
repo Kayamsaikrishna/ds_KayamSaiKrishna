@@ -3,7 +3,7 @@
 ## Assignment: Junior Data Scientist – Trader Behavior Insights
 **Author:** Kayam Sai Krishna  
 **Date:** September 2025  
-**Company:** Primetrade.ai & Fin-Agentix  
+**Company:** Primetrade.ai
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google-Colab-orange.svg)](https://colab.research.google.com/)
@@ -467,7 +467,7 @@ ds_KayamSaiKrishna/
 └── 📋 README.md                        # Comprehensive documentation
 
 📓 Google Colab Notebook Access:
-🔗 notebook_1.ipynb - [Google Colab Link] (Set to 'Anyone with link can view')
+🔗 notebook_1.ipynb - https://colab.research.google.com/drive/1cnZAMZa2GlWxhq2gBgGjm79bTj2rNxzy?usp=sharing
 ```
 
 ### 📊 Data Files Description
@@ -707,7 +707,7 @@ Specialization: Web3 Trading Intelligence & Behavioral Analytics
 - **Analysis Framework**: Original development by Kayam Sai Krishna
 
 ### 🏢 Company Acknowledgment
-This analysis was developed as part of the application process for **Primetrade.ai** in collaboration with **Fin-Agentix**, demonstrating advanced data science capabilities in Web3 trading intelligence.
+This analysis was developed as part of the application process for **Primetrade.ai**, demonstrating advanced data science capabilities in Web3 trading intelligence.
 
 ### ⚖️ Usage Rights
 This project is submitted exclusively for evaluation purposes. All methodologies, insights, and code implementations are original work created specifically for this assignment.
