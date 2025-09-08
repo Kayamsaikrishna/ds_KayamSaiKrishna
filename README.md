@@ -47,32 +47,32 @@ This project explores the intricate relationship between **trader behavior** and
 
 ``mermaid
 graph TB
-    A[Raw Data Sources] --> B[Data Ingestion]
-    B --> C[Data Preprocessing]
-    C --> D[Feature Engineering]
-    D --> E[Exploratory Data Analysis]
-    E --> F[Statistical Analysis]
-    F --> G[Machine Learning Models]
-    G --> H[Model Evaluation]
-    H --> I[Insights Generation]
-    I --> J[Visualization & Reporting]
+    A["📊 Raw Data Sources"] --> B["🔄 Data Ingestion"]
+    B --> C["🧹 Data Preprocessing"]
+    C --> D["⚙️ Feature Engineering"]
+    D --> E["🔍 Exploratory Data Analysis"]
+    E --> F["📈 Statistical Analysis"]
+    F --> G["🤖 Machine Learning Models"]
+    G --> H["✅ Model Evaluation"]
+    H --> I["💡 Insights Generation"]
+    I --> J["📊 Visualization & Reporting"]
     
-    A1[Bitcoin Fear & Greed Index] --> B
-    A2[Hyperliquid Trader Data] --> B
+    A1["Bitcoin Fear & Greed Index"] --> B
+    A2["Hyperliquid Trader Data"] --> B
     
-    D --> D1[Risk Metrics]
-    D --> D2[Performance Indicators]
-    D --> D3[Behavioral Features]
-    D --> D4[Temporal Features]
+    D --> D1["Risk Metrics"]
+    D --> D2["Performance Indicators"]
+    D --> D3["Behavioral Features"]
+    D --> D4["Temporal Features"]
     
-    G --> G1[Classification Models]
-    G --> G2[Clustering Analysis]
-    G --> G3[Regression Models]
-    G --> G4[Time Series Models]
+    G --> G1["Classification Models"]
+    G --> G2["Clustering Analysis"]
+    G --> G3["Regression Models"]
+    G --> G4["Time Series Models"]
     
-    J --> J1[Interactive Dashboards]
-    J --> J2[Statistical Reports]
-    J --> J3[Predictive Insights]
+    J --> J1["Interactive Dashboards"]
+    J --> J2["Statistical Reports"]
+    J --> J3["Predictive Insights"]
 ```
 
 ---
@@ -82,17 +82,13 @@ graph TB
 ### 1. Bitcoin Market Sentiment Dataset
 ```mermaid
 graph LR
-    A[Fear & Greed Index] --> B[Date]
-    A --> C[Classification]
-    A --> D[Value]
-    A --> E[Value Classification]
+    A["📊 Fear & Greed Index"] --> B["📅 Date"]
+    A --> C["🏷️ Classification"]
+    A --> D["📈 Value"]
+    A --> E["📋 Value Classification"]
     
-    C --> C1[Fear: 0-49]
-    C --> C2[Greed: 50-100]
-    
-    style A fill:#ff9999
-    style C1 fill:#ff6b6b
-    style C2 fill:#51cf66
+    C --> C1["😨 Fear: 0-49"]
+    C --> C2["🤑 Greed: 50-100"]
 ```
 
 **Features:**
@@ -251,7 +247,7 @@ pie title Trader Performance Distribution
 ### 🧠 Behavioral Insights
 
 #### 1. Sentiment-Performance Correlation
-```mermaid
+``mermaid
 graph LR
     A[Fear Periods] --> B[Conservative Trading]
     A --> C[Reduced Position Sizes]
@@ -466,8 +462,10 @@ ds_KayamSaiKrishna/
 │   └── predictive_models.png           # Model performance comparison
 └── 📋 README.md                        # Comprehensive documentation
 
-📓 Google Colab Notebook Access:
-🔗 notebook_1.ipynb - https://colab.research.google.com/drive/1cnZAMZa2GlWxhq2gBgGjm79bTj2rNxzy?usp=sharing
+📓 **Google Colab Notebook Access:**
+🔗 **Live Analysis**: [https://colab.research.google.com/drive/1cnZAMZa2GlWxhq2gBgGjm79bTj2rNxzy?usp=sharing](https://colab.research.google.com/drive/1cnZAMZa2GlWxhq2gBgGjm79bTj2rNxzy?usp=sharing)
+
+🐈 **GitHub Repository**: [https://github.com/Kayamsaikrishna/ds_KayamSaiKrishna](https://github.com/Kayamsaikrishna/ds_KayamSaiKrishna)
 ```
 
 ### 📊 Data Files Description
@@ -621,32 +619,26 @@ flowchart TD
 
 ```mermaid
 graph TB
-    A[Future Enhancements] --> B[Advanced Analytics]
-    A --> C[Real-Time Integration]
-    A --> D[Extended Data Sources]
-    A --> E[Deployment Options]
+    A["🔮 Future Enhancements"] --> B["🧠 Advanced Analytics"]
+    A --> C["⚡ Real-Time Integration"]
+    A --> D["📡 Extended Data Sources"]
+    A --> E["🚀 Deployment Options"]
     
-    B --> B1[Deep Learning Models]
-    B --> B2[Ensemble Methods]
-    B --> B3[Reinforcement Learning]
+    B --> B1["🤖 Deep Learning Models"]
+    B --> B2["🎯 Ensemble Methods"]
+    B --> B3["🎮 Reinforcement Learning"]
     
-    C --> C1[Live Data Streaming]
-    C --> C2[Real-Time Predictions]
-    C --> C3[Alert Systems]
+    C --> C1["📊 Live Data Streaming"]
+    C --> C2["🔮 Real-Time Predictions"]
+    C --> C3["🚨 Alert Systems"]
     
-    D --> D1[Multiple Exchanges]
-    D --> D2[Social Sentiment]
-    D --> D3[News Analytics]
+    D --> D1["🏢 Multiple Exchanges"]
+    D --> D2["💬 Social Sentiment"]
+    D --> D3["📰 News Analytics"]
     
-    E --> E1[Web Application]
-    E --> E2[API Development]
-    E --> E3[Mobile Dashboard]
-    
-    style A fill:#2d3436
-    style B fill:#00b894
-    style C fill:#0984e3
-    style D fill:#fdcb6e
-    style E fill:#e17055
+    E --> E1["💻 Web Application"]
+    E --> E2["🔌 API Development"]
+    E --> E3["📱 Mobile Dashboard"]
 ```
 
 ### 🎯 Technical Roadmap
@@ -693,9 +685,11 @@ Specialization: Web3 Trading Intelligence & Behavioral Analytics
 
 ### 🔗 Additional Resources
 
-- **Google Colab Notebook**: [Direct Access Link] (Set to 'Anyone with link can view')
-- **GitHub Repository**: [Complete project codebase and documentation]
-- **Dataset Sources**: [Original Hyperliquid and Fear & Greed Index data]
+- **📊 Google Colab Notebook**: [Live Analysis Environment](https://colab.research.google.com/drive/1cnZAMZa2GlWxhq2gBgGjm79bTj2rNxzy?usp=sharing) (Set to 'Anyone with link can view')
+- **🐈 GitHub Repository**: [Complete Project Codebase](https://github.com/Kayamsaikrishna/ds_KayamSaiKrishna)
+- **📈 Dataset Sources**: 
+  - [Hyperliquid Historical Data](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+  - [Bitcoin Fear & Greed Index](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
 
 ---
 
