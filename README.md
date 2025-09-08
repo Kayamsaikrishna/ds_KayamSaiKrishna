@@ -45,7 +45,7 @@ This project explores the intricate relationship between **trader behavior** and
 
 ## 🏗️ Project Architecture
 
-``mermaid
+```mermaid
 graph TB
     A["📊 Raw Data Sources"] --> B["🔄 Data Ingestion"]
     B --> C["🧹 Data Preprocessing"]
