@@ -1,0 +1,2 @@
+Analysis_Date,Total_Traders_Analyzed,Profitable_Traders,Elite_Traders,Average_Composite_Score,ML_Best_Model,ML_Best_Score,Sentiment_Model_R2,Performance_Model_R2
+2025-09-08 14:34:20,32,29,0,37.75554945707016,Random Forest,0.7777777777777778,0.9990738539757612,-0.1922155214158796
